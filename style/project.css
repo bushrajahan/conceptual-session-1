@@ -64,3 +64,21 @@ align-items: center;
     background-color:white;
     color: black;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+
+}
+.about-img{
+    width: 200px;
+    margin-left: 50px; 
+}
+.about-info{
+    padding:100px;
+}
+.abo{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+}
